@@ -1,0 +1,5 @@
+classes=64
+train  = data/brailletrain.txt
+valid  = data/brailletest.txt
+names = data/braille.names
+backup = backup/
